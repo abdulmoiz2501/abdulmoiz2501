@@ -13,7 +13,8 @@ Graduating from [Bahria University Islamabad](https://bahria.edu.pk/buic/) in So
 
 ### Connect with me:
 
-[<img align="left" alt="abdul-moiz25 | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="left" alt="abdul-moiz25 | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/abdul-moiz25/)
+
 
 
 <br />
