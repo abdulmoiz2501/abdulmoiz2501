@@ -52,9 +52,4 @@ pcer420@gmail.com or +92-333-8892960
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrafeh857&theme=light&show_icons=true&hide_border=true&count_private=true" />
 
-[twitter]: https://twitter.com/abdulrafeh857
-[facebook]: https://www.facebook.com/abdul.rafeh.857/
-[instagram]: https://instagram.com/rafeh.abdul
-[linkedin]: https://www.linkedin.com/in/abdulrafeh857
