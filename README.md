@@ -48,7 +48,7 @@ Here are a few technologies 🔭 I’m currently working on with recently:
 <br />
 
 # 📫 How to reach me: 
-pcer420@gmail.com or +92-333-8892960
+moizishere121@gmail.com or +92-333-8892960
 <br />
 
 ---
