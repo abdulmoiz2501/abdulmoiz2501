@@ -9,7 +9,7 @@
 
 I'm Abdul Moiz, a software engineer based in Islamabad Pakistan, Flutter Developer with 3 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing app functionality that improve data retrieval and workflow efficiencies using modern backends.
 
-Graduated from [Bahria University Islamabad](https://bahria.edu.pk/buic/) in Software Engineering, I am freelancing as a Flutter Developer at Upwork and Fiverr, where I engage in a broad range of intriguing and purposeful projects every day. 
+Graduated from [Bahria University Islamabad](https://bahria.edu.pk/buic/) in Software Engineering, I am working currently at RTechnologies, where I engage in a broad range of intriguing and purposeful projects for clients every day. 
 
 ### Connect with me:
 
