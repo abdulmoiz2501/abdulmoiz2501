@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 
-I'm Abdul Moiz, a software engineer based in Islamabad Pakistan, Flutter Developer with 2+ years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing app functionality that improve data retrieval and workflow efficiencies using modern backends.
+I'm Abdul Moiz, a software engineer based in Islamabad, Pakistan — a Flutter Developer with 2+ years of experience building scalable and visually appealing apps. I specialize in real-time, WebSocket-driven systems, eCommerce, ride-hailing, and social media apps with GetX and BLoC (Clean Architecture) to ensure modular, testable, and production-ready code.
 
 Graduated from [Bahria University Islamabad](https://bahria.edu.pk/buic/) in Software Engineering, I am working currently at RTechnologies, where I engage in a broad range of intriguing and purposeful projects for clients every day. 
 
@@ -28,6 +28,9 @@ Here are a few technologies 🔭 I’m currently working on with recently:
   - Node.js
   - SQL/NOSQL
   - Firebase
+  - GetX
+  - BLoC (Clean Architecture)
+  - WebSocket (real-time chat and tracking)
 
 <img align="left" alt="Android Studio" width="26px" src="https://developer.android.com/studio/images/studio-icon.svg" />
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
