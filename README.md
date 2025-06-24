@@ -9,7 +9,7 @@
 
 I'm Abdul Moiz, a software engineer based in Islamabad, Pakistan — a Flutter Developer with 2+ years of experience building scalable and visually appealing apps. I specialize in real-time, WebSocket-driven systems, eCommerce, ride-hailing, and social media apps with GetX and BLoC (Clean Architecture) to ensure modular, testable, and production-ready code.
 
-Graduated from [Bahria University Islamabad](https://bahria.edu.pk/buic/) in Software Engineering, I am working currently at RTechnologies, where I engage in a broad range of intriguing and purposeful projects for clients every day. 
+Graduated from Bahria University Islamabad in Software Engineering, I am currently working at Jazz Mosafir, where I am leading the revamp of their existing Kotlin and Swift mobile applications into a unified Flutter-based app. The work involves reimagining user experiences and streamlining cross-platform development for greater efficiency and scalability.
 
 ### Connect with me:
 
