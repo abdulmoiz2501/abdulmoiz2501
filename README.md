@@ -54,6 +54,16 @@ I'm **Abdul Moiz**, a passionate software engineer based in Islamabad, Pakistan.
 
 ---
 
-#### 📊 Languages & Frameworks Usage
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
+#### 📊 My Stack at a Glance
+
+| Language / Framework | Usage | Role |
+|---|---|---|
+| ![Dart](https://img.shields.io/badge/Dart-42%25-0175C2?style=flat-square&logo=dart&logoColor=white) | `████████████░░░░░░░░░` 42% | Flutter apps (primary) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-22%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `██████░░░░░░░░░░░░░░░` 22% | Node.js / React / Express |
+| ![Node.js](https://img.shields.io/badge/Node.js-14%25-339933?style=flat-square&logo=node.js&logoColor=white) | `████░░░░░░░░░░░░░░░░░` 14% | Backend / APIs |
+| ![React](https://img.shields.io/badge/React-10%25-61DAFB?style=flat-square&logo=react&logoColor=black) | `███░░░░░░░░░░░░░░░░░░` 10% | Web dashboards / PWA |
+| ![Firebase](https://img.shields.io/badge/Firebase-5%25-FFA611?style=flat-square&logo=firebase&logoColor=white) | `█░░░░░░░░░░░░░░░░░░░░` 5% | Auth / Firestore / FCM |
+| ![SQL](https://img.shields.io/badge/SQL%2FMongo-4%25-4169E1?style=flat-square&logo=postgresql&logoColor=white) | `█░░░░░░░░░░░░░░░░░░░░` 4% | PostgreSQL / MongoDB |
+| ![Other](https://img.shields.io/badge/Other-3%25-888888?style=flat-square) | `░░░░░░░░░░░░░░░░░░░░░` 3% | Docker, config, scripts |
