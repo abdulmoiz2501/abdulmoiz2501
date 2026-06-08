@@ -1,11 +1,9 @@
 ### Hi there 👋
-
-I’m **Abdul Moiz**, a passionate software engineer based in Islamabad, Pakistan. With 2+ years of production experience, I specialize in building robust, scalable, and visually stunning cross-platform applications.
+I'm **Abdul Moiz**, a passionate software engineer based in Islamabad, Pakistan. With 2+ years of production experience, I specialize in building robust, scalable, and visually stunning cross-platform applications.
 
 ---
 
 #### 🔧 Tech Stack & Tools
-
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)  
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)  
 [![GetX](https://img.shields.io/badge/GetX-2DBE6C?style=flat-square&logo=flutter&logoColor=white)](https://pub.dev/packages/get)  
@@ -53,3 +51,9 @@ I’m **Abdul Moiz**, a passionate software engineer based in Islamabad, Pakista
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdul-moiz25/)  
 - 📫 **Email:** moizishere121@gmail.com  
 - 📞 **Phone:** +92 333 889 2960  
+
+---
+
+#### 📊 Languages & Frameworks Usage
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
