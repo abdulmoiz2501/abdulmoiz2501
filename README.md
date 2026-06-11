@@ -34,7 +34,7 @@ I'm **Abdul Moiz**, a passionate software engineer based in Islamabad, Pakistan.
 
 #### 🚀 Recent Projects
 - **Mosafir (Jazz Mosafir)** – Travel booking app  
-  [Play Store](https://play.google.com/store/apps/details?id=pk.mosafir.travsol&hl=en)  
+  [Play Store](https://play.google.com/store/apps/details?id=pk.mosafir.travsol&hl=en) | [App Store](https://apps.apple.com/pk/app/mosafir/id1604160832)
 - **Checkin** – Meeting & social discovery app  
   [App Store](https://apps.apple.com/au/app/checkin-meet-new-people/id6736611885) | [Play Store](https://play.google.com/store/apps/details?id=com.checkin.org)  
 - **Cas Cars** – Ride-hailing application  
