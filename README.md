@@ -36,7 +36,12 @@ I'm **Abdul Moiz**, a passionate software engineer based in Islamabad, Pakistan.
 - **Mosafir (Jazz Mosafir)** – Travel booking app  
   [Play Store](https://play.google.com/store/apps/details?id=pk.mosafir.travsol&hl=en) | [App Store](https://apps.apple.com/pk/app/mosafir/id1604160832)
 - **Checkin** – Meeting & social discovery app  
-  [App Store](https://apps.apple.com/au/app/checkin-meet-new-people/id6736611885) | [Play Store](https://play.google.com/store/apps/details?id=com.checkin.org)  
+  [App Store](https://apps.apple.com/au/app/checkin-meet-new-people/id6736611885) | [Play Store](https://play.google.com/store/apps/details?id=com.checkin.org)
+- **MySpeakMate** – Language learning & speaking practice app
+  [App Store](https://apps.apple.com/us/app/myspeakmate/id6756485701) | [Play Store](https://play.google.com/store/apps/details?id=de.gfw.sprachapp&hl=en)
+- **MindSwipe** – Wellness matching app
+  [App Store](https://apps.apple.com/us/app/mindswipe-wellness-matching/id6751424177) | [Play Store](https://play.google.com/store/apps/details?id=com.nexora.mindswipe) 
+  
 - **Cas Cars** – Ride-hailing application  
   [Play Store](https://play.google.com/store/apps/details?id=com.cascarstaxi)  
 - **Peter Pan** – Ride-hailing application  
